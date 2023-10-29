@@ -1,2 +1,3 @@
-# P2
-Travel and Tour Booking
+# Travel and Tours
+Travel and Tour Booking website.
+Connects to database and saves information customer information along with cart, products bought, and unique identifier.
